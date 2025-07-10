@@ -38,4 +38,4 @@ An interactive web application that visually demonstrates classic sorting algori
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sorting-visualizer.git
+   git clone https://github.com/rajeevy037/sorting-visualizer.git
